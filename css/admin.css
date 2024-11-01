@@ -1,0 +1,11 @@
+.skolmatsettings-admin-settings{
+    display: flex;
+    gap: 10px;
+}
+
+.skolmatsettings-block{
+    background: white;
+    padding: 20px;
+    margin-top: 10px;
+    border-radius: 10px;
+}

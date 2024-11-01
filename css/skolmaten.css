@@ -1,0 +1,41 @@
+.skolmaten_list ul{
+	list-style: none;
+	padding-left:0;
+}
+
+.skolmaten_list li{
+	list-style: none;
+	border-bottom: 1px solid #D1D1D1;
+	padding: 10px 0px;
+}
+
+.skolmaten_fromto{
+	font-size:85%;
+	font-weight: bold;
+}
+
+.skolmatsettings{
+	max-width: 800px;
+}
+
+.skolmatsettings input{
+	width:100%;
+}
+
+.skolmatsettings input[type="button"], .skolmatsettings input[type="submit"]{
+	width:auto;
+}
+
+.skolmatsettings .form-table{
+	min-height:400px;
+}
+
+.skolmatsettings .form-table td{
+	vertical-align:top;
+}
+
+.veckans-image img{
+	width: 100%;
+	height: auto;
+	border-radius: 4px 4px 0 0;
+}
